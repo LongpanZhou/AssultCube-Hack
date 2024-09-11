@@ -1,0 +1,9 @@
+﻿  Classes.h
+C:\Users\27175\Documents\AssultCube-Hack\Version2\tut\Classes.h(35,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\27175\Documents\AssultCube-Hack\Version2\tut\Classes.h(35,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  mem.cpp
+C:\Users\27175\Documents\AssultCube-Hack\Version2\tut\mem.cpp(82,36): warning C4312: 'type cast': conversion from 'uint32_t' to 'BYTE *' of greater size
+  Offsets.h
+  Generating Code...
+  tut.vcxproj -> C:\Users\27175\Documents\AssultCube-Hack\Version2\x64\Debug\tut.exe

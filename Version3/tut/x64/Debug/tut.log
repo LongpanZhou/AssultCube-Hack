@@ -1,0 +1,24 @@
+﻿  Classes.h
+C:\Users\27175\Documents\AssultCube-Hack\Version3\tut\Classes.h(47,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\27175\Documents\AssultCube-Hack\Version3\tut\Classes.h(100,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\27175\Documents\AssultCube-Hack\Version3\tut\Classes.h(101,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  demo.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\27175\Documents\AssultCube-Hack\Version3\tut\Classes.h(47,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\27175\Documents\AssultCube-Hack\Version3\tut\Classes.h(100,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\27175\Documents\AssultCube-Hack\Version3\tut\Classes.h(101,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\27175\Documents\AssultCube-Hack\Version3\tut\main.cpp(85,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\27175\Documents\AssultCube-Hack\Version3\tut\main.cpp(85,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  mem.cpp
+C:\Users\27175\Documents\AssultCube-Hack\Version3\tut\mem.cpp(82,36): warning C4312: 'type cast': conversion from 'uint32_t' to 'BYTE *' of greater size
+  Offsets.h
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  tut.vcxproj -> C:\Users\27175\Documents\AssultCube-Hack\Version3\x64\Debug\tut.exe

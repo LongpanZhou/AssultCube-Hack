@@ -1,5 +1,0 @@
-﻿  proc.cpp
-C:\Users\27175\Documents\AssultCube-Hack\Version1\tut\proc.cpp(60,28): warning C4312: 'type cast': conversion from 'uint32_t' to 'BYTE *' of greater size
-  tut.cpp
-  Generating Code...
-  tut.vcxproj -> C:\Users\27175\Documents\AssultCube-Hack\Version1\x64\Debug\tut.exe
